@@ -1,0 +1,8 @@
+*.o
+*.out
+a.out
+mygit
+*.exe
+build/
+.mygit/
+.vscode/
